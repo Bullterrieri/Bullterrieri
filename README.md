@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hei, olen Sami 👋
 
-<!--
-**Bullterrieri/Bullterrieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olen tieto- ja viestintätekniikan lehtori, ja teen projekteja mm.:
+- CMS systeemit (WordPress)
+- Web-kehitys
+- Verkkokauppa-alustat (CloverShop)
+- Oppimateriaalien tuotanto
 
-Here are some ideas to get you started:
+### 🔧 Taitoja
+- Python
+- JavaScript
+- HTML/CSS
+- PHP/SQL
+- WordPress
+- CloverShop
+- Ai
+- SEM/SEO
+- Analytics/Kävijäseuranta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Viimeaikaisia projekteja
+- [Ekurssit.net](https://www.ekurssit.net/)
+- [Instagram Ekurssit_net](https://www.instagram.com/ekurssit_net/)
+
+### 📫 Yhteys
+- LinkedIn: (https://www.linkedin.com/in/sami-sipinen-68682695)
+
+### 💼 Otan vastaan projekteja
+
+Teen pieniä ja keskisuuria projekteja oman opetustyöni ohella, kuten:
+
+- 🌐 Nettisivut (HTML, CSS, JS, WordPress)
+- 🛠️ CMS‑toteutukset ja muokkaukset
+- 🧩 CloverShop verkkokauppa perusasennus ja käyttöönotto
+- 🔧 Sivustojen päivitykset ja korjaukset
+- 📸 Instagram‑mainoksien valmistus ja toteutus
+
+Jos tarvitset tekijää tai haluat kysyä tarjousta, ota rohkeasti yhteyttä:
+
+📩 **sukunimi(ät)gmail.com**
+🔗 **LinkedIn:** https://www.linkedin.com/in/sami-sipinen-68682695/
